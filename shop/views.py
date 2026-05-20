@@ -167,10 +167,10 @@ def search_view(request):
     is_best = "best" in query
     is_latest = "latest" in query
 
-    # 👉 START WITH ALL PRODUCTS
+    #  START WITH ALL PRODUCTS
     products = Product.objects.all()
 
-    # ✅ MAIN SEARCH (OR logic — SAFE)
+    #  MAIN SEARCH 
     if keywords:
         q_objects = Q()
         for word in keywords:
@@ -180,18 +180,18 @@ def search_view(request):
 
         products = products.filter(q_objects)
 
-    # ✅ FALLBACK (VERY IMPORTANT 🔥)
+    
     if not products.exists() and query:
         products = Product.objects.filter(
             Q(name__icontains=query) |
             Q(description__icontains=query)
         )
 
-    # 💰 Price filter
+    # Price filter
     if max_price:
         products = products.filter(selling_price__lte=max_price)
 
-    # ⭐ Sorting
+    #  Sorting
     if is_best:
         products = products.order_by('-selling_price')
     elif is_latest:
