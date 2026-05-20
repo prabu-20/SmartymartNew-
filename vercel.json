@@ -1,14 +1,14 @@
 {
   "builds": [
     {
-      "src": "mysite/wsgi.py",
+      "src": "smartymart/wsgi.py",
       "use": "@vercel/python"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "mysite/wsgi.py"
+      "dest": "smartymart/wsgi.py"
     }
   ]
 }
