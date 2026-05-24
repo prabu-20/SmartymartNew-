@@ -80,15 +80,15 @@ def removecart(request,cid):
 def collectionview(request,name):
     if(Category.objects.filter(name=name,status=0)):
         products=Product.objects.filter(category__name=name)
-        return render(request,'products\index.html',{"products":products,"category_name":name})
+        return render(request,'products/index.html',{"products":products,"category_name":name})
     else:
         messages.warning(request,"No Such Category Found")
         return redirect('collections')
 
 
 def product_details(request,cname,pname):
-    if(Category.objects.filter(name=cname,status=0)).exists:
-        if(Product.objects.filter(name=pname,status=0)).exists:
+    if(Category.objects.filter(name=cname,status=0)).exists():
+        if(Product.objects.filter(name=pname,status=0)).exists():
             words=pname.split()
             product = Product.objects.filter(status=0)
             for word in words:
