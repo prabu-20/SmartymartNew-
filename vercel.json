@@ -17,6 +17,10 @@
       "dest": "static/$1"
     },
     {
+      "src": "/images/(.*)",
+      "dest": "static/images/$1"
+    },
+    {
       "src": "/(.*)",
       "dest": "smartymart/wsgi.py"
     }

@@ -94,7 +94,7 @@ def product_details(request,cname,pname):
             for word in words:
                 product = product.filter(name__icontains=word)
 
-                products = product.first
+                products = product.first()
             return render(request,'products/products_details.html',{"products":products})
         else:
             messages.error(request,"No such Product Found")
