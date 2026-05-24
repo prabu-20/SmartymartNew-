@@ -12,7 +12,7 @@
                 <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="{% url 'home' %}" style="text-decoration: none;">Home</a></li>
-                    <li class="breadcrumb-item"><a href="{% url 'product_details' products.category.name %}"  style="text-decoration: none;">Collections</a></li>
+                    <li class="breadcrumb-item"><a href="{% url 'collectionsview' products.category.name %}"  style="text-decoration: none;">Collections</a></li>
                     <li class="breadcrumb-item active" aria-current="page"  style="text-decoration: none;">{{products}}</li>
                 </ol>
                 </nav>
