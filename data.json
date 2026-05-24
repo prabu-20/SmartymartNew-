@@ -1,0 +1,1880 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2026-03-08T14:37:09.192Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Mobiles",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2026-03-08T14:58:40.435Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Product object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2026-03-08T15:01:31.855Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Product object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2026-03-08T15:03:17.771Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Product object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2026-03-08T15:25:27.405Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Laptops",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2026-03-08T15:29:01.094Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Product object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2026-03-08T15:30:49.931Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Product object (5)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2026-03-08T15:32:37.463Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Product object (6)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2026-03-08T15:33:59.293Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Product object (7)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2026-03-08T15:35:30.581Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "Product object (8)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2026-03-08T15:35:47.797Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Product object (6)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Product image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2026-03-08T15:36:03.879Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Product object (5)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Product image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2026-03-08T15:36:24.250Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Product object (1)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Product image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2026-03-08T15:41:34.435Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Footwear",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2026-03-08T15:50:36.851Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Product object (9)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2026-03-08T15:53:25.703Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "Product object (10)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2026-03-08T15:55:04.063Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "11",
+    "object_repr": "Product object (11)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2026-03-08T15:56:37.250Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "12",
+    "object_repr": "Product object (12)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2026-03-08T15:58:20.153Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "13",
+    "object_repr": "Product object (13)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2026-04-01T02:44:07.964Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Fasion",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2026-04-01T02:50:00.743Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "14",
+    "object_repr": "Product object (14)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2026-04-01T02:55:46.313Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "15",
+    "object_repr": "Product object (15)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2026-04-01T02:58:02.532Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "16",
+    "object_repr": "Product object (16)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2026-04-01T03:00:00.655Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "17",
+    "object_repr": "Product object (17)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2026-04-01T03:03:49.793Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "18",
+    "object_repr": "Product object (18)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2026-04-01T03:06:51.250Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "19",
+    "object_repr": "Product object (19)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2026-04-01T03:08:24.095Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "20",
+    "object_repr": "Product object (20)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2026-04-01T03:10:28.218Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "21",
+    "object_repr": "Product object (21)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2026-04-01T03:34:52.746Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Mobiles",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2026-04-01T03:37:01.465Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Footwear",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2026-04-01T03:37:37.721Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Laptops",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2026-04-01T03:46:07.847Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Home",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2026-04-01T03:48:03.287Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "22",
+    "object_repr": "Product object (22)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2026-04-01T03:49:05.114Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "23",
+    "object_repr": "Product object (23)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2026-04-01T03:50:35.737Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "24",
+    "object_repr": "Product object (24)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2026-04-01T03:53:15.145Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "25",
+    "object_repr": "Product object (25)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2026-04-01T03:54:54.616Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "26",
+    "object_repr": "Product object (26)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2026-04-06T01:00:43.168Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "23",
+    "object_repr": "Bed_sheets",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2026-04-06T01:01:05.062Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "22",
+    "object_repr": "PenHolder",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2026-04-06T01:18:15.005Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "23",
+    "object_repr": "Bed sheets",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2026-04-06T02:17:19.572Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Redmi note-7",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Trending\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2026-04-06T02:26:55.076Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "15",
+    "object_repr": "Jean Shirt",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Product image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2026-04-13T19:47:30.863Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "Prabu.K",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2026-04-13T19:47:30.876Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "Prabu.Kannan",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2026-04-13T19:47:30.880Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "4",
+    "object_repr": "PrabuKannan",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2026-04-13T19:51:45.967Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "5",
+    "object_repr": "Siba",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2026-04-13T20:02:40.109Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "6",
+    "object_repr": "Siba",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2026-04-13T20:36:47.196Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "9",
+    "object_repr": "Thirumurugan",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2026-04-13T20:38:34.476Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "10",
+    "object_repr": "Thirumurugan",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2026-04-30T19:09:22.168Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Fashion",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add category",
+    "content_type": 7,
+    "codename": "add_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change category",
+    "content_type": 7,
+    "codename": "change_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete category",
+    "content_type": 7,
+    "codename": "delete_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view category",
+    "content_type": 7,
+    "codename": "view_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add product",
+    "content_type": 8,
+    "codename": "add_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change product",
+    "content_type": 8,
+    "codename": "change_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete product",
+    "content_type": 8,
+    "codename": "delete_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view product",
+    "content_type": 8,
+    "codename": "view_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add cart",
+    "content_type": 9,
+    "codename": "add_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change cart",
+    "content_type": 9,
+    "codename": "change_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete cart",
+    "content_type": 9,
+    "codename": "delete_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view cart",
+    "content_type": 9,
+    "codename": "view_cart"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add favourite",
+    "content_type": 10,
+    "codename": "add_favourite"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change favourite",
+    "content_type": 10,
+    "codename": "change_favourite"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete favourite",
+    "content_type": 10,
+    "codename": "delete_favourite"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view favourite",
+    "content_type": 10,
+    "codename": "view_favourite"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$GLKzzelVlZ5c2Ap3gWm0lt$0RLJTPcMWI2A1qTwmnyqk7pA6yh6aTksxFYxfQZzjMY=",
+    "last_login": "2026-05-24T17:06:22.088Z",
+    "is_superuser": true,
+    "username": "prabu",
+    "first_name": "",
+    "last_name": "",
+    "email": "prabukannan20051125@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-03-08T13:28:55.348Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$C5M3NLTnTaUsCS7KshQLcK$XXBLHvr3KAD2/YKsoilWCkyaSjbOwVLiwrSlUInP0f8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Siba",
+    "first_name": "",
+    "last_name": "",
+    "email": "siba123@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-13T20:03:49.320Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 8,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$UTPUavTTt0RrnBr2U5U39z$mqQ9vvUUjlLgvLisczxK42aOfG/9yQZ2njVQ1y4GROc=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "siva",
+    "first_name": "",
+    "last_name": "",
+    "email": "siva@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-13T20:11:14.119Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 11,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$HCupQrH8vcfAbuZo6hCm8k$Ye9522LKPyj1UFtyfhUvr5UgGqL9wt8BfeYjwEAgRrY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Thirumurugan",
+    "first_name": "",
+    "last_name": "",
+    "email": "thiru@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-13T20:38:53.010Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 12,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$9743d8QRx9gyDApAaeoANi$dP83gDN9J4q3WUjiKwZ6JI9M6xKXivpkPZOSEu+DVZk=",
+    "last_login": "2026-04-13T21:41:22.923Z",
+    "is_superuser": false,
+    "username": "sanjai",
+    "first_name": "",
+    "last_name": "",
+    "email": "sanjaikumar@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-13T21:34:26.478Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 13,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$PhrlfKnquEl2GPVcaXDsQc$ecYTWDk4yaY8HsB++Ik85d1XQfAx2VEfSIzI5YYBh+8=",
+    "last_login": "2026-04-24T18:38:30.708Z",
+    "is_superuser": false,
+    "username": "raju",
+    "first_name": "",
+    "last_name": "",
+    "email": "raju143@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-04-24T18:38:15.373Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "shop",
+    "model": "category"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "shop",
+    "model": "product"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "shop",
+    "model": "cart"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "shop",
+    "model": "favourite"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "1mi94swms27ybstzcq9evchjh7ihldb9",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSE8CgWX7vsN5D5QqgaS0q6M_65NutDtmZnzEgm2taSt5yXNLM5Ci9PvhkCPXHfAd6i3JqnVdZlR7oo8aJdT4_y8HO7fQYFevvWYbSDWUWccRhMiRm9spiHYYGDwQdvoEDUoZaMy5B05j2wwMGnv-CreH8S8N0Y:1wIXGw:EG9KZBEP9plswjOwjWd-SHlj8_MDuAhsN8C0rncXu0A",
+    "expire_date": "2026-05-14T19:42:06.747Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "hcj6eqd4l72q1933swo47ykthcg39s2d",
+  "fields": {
+    "session_data": ".eJxVjMsKwjAQAP9lzxLybtKj935DyO5GU5UUmvYk_rsUetDrzDBvSHnfatp7WdPMMIKCyy_DTM_SDsGP3O6LoKVt64ziSMRpu5gWLq_r2f4Nau4VRhiKCcQqqoJ20CFi9NoUssEEna0PykSHqLKUJkpN3pHzyBoDk_KOb_D5AsS8N0Y:1vzENV:o6ytieebXb9l1cK2fO58vc07qfJOaz03KuTptJMfRsk",
+    "expire_date": "2026-03-22T13:41:05.754Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "nm8sqowk32hk4qwva4z1cjxwqvo9t730",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSE8CgWX7vsN5D5QqgaS0q6M_65NutDtmZnzEgm2taSt5yXNLM5Ci9PvhkCPXHfAd6i3JqnVdZlR7oo8aJdT4_y8HO7fQYFevvWYbSDWUWccRhMiRm9spiHYYGDwQdvoEDUoZaMy5B05j2wwMGnv-CreH8S8N0Y:1wG5Az:TZ5TU9y9D2EcZ7sXULkUJhetR-OVYklpzeF1s-67nj0",
+    "expire_date": "2026-05-08T01:17:49.040Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "uvilwam2jbwppwo8035i1hgvhba2gj2o",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSE8CgWX7vsN5D5QqgaS0q6M_65NutDtmZnzEgm2taSt5yXNLM5Ci9PvhkCPXHfAd6i3JqnVdZlR7oo8aJdT4_y8HO7fQYFevvWYbSDWUWccRhMiRm9spiHYYGDwQdvoEDUoZaMy5B05j2wwMGnv-CreH8S8N0Y:1wRCHO:RmbEpHGkAgahVy6O7xwYop_lk6Gom39L3wztP4l6A_8",
+    "expire_date": "2026-06-07T17:06:22.094Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "xerso4vxuk09ie1dw8wr5clbxtxljzfw",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAUBf-FtSE8CgWX7vsN5D5QqgaS0q6M_65NutDtmZnzEgm2taSt5yXNLM5Ci9PvhkCPXHfAd6i3JqnVdZlR7oo8aJdT4_y8HO7fQYFevvWYbSDWUWccRhMiRm9spiHYYGDwQdvoEDUoZaMy5B05j2wwMGnv-CreH8S8N0Y:1wPWoB:ws8eVUd1_hNmFdnKlkpQx5AJoOoMRRKMzm7AYZ7n8ks",
+    "expire_date": "2026-06-03T02:37:19.148Z"
+  }
+},
+{
+  "model": "shop.category",
+  "pk": 1,
+  "fields": {
+    "name": "Mobiles",
+    "image": "uploads/2026040110345220260308210624redmi-note-7-4gb-64gb-mobile-phone-500x500.webp",
+    "description": "All Kinds of Mobiles here.....",
+    "status": false,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.category",
+  "pk": 2,
+  "fields": {
+    "name": "Laptops",
+    "image": "uploads/20260401103737laptops.webp",
+    "description": "All kins of laptops here...",
+    "status": false,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.category",
+  "pk": 3,
+  "fields": {
+    "name": "Footwear",
+    "image": "uploads/20260401103701bruton.webp",
+    "description": "All kinds of Footwears are here...",
+    "status": false,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.category",
+  "pk": 4,
+  "fields": {
+    "name": "Fashion",
+    "image": "uploads/20260401094407fasion-men-women.webp",
+    "description": "Here for many fasion dresses for men's and women's",
+    "status": false,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.category",
+  "pk": 5,
+  "fields": {
+    "name": "Home",
+    "image": "uploads/20260401104607home_furniture.webp",
+    "description": "All kinds of home furnitures here......",
+    "status": false,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 1,
+  "fields": {
+    "category": 1,
+    "name": "Redmi note-7",
+    "vendor": "siba biswas",
+    "product_image": "uploads/20260308210624redmi-note-7-4gb-64gb-mobile-phone-500x500.webp",
+    "quantity": 10,
+    "original_price": 14999.0,
+    "selling_price": 9774.0,
+    "description": "The   Redmi Note 7 is a stylish and powerful smartphone designed to deliver smooth performance and great photography. It features a 6.3-inch Full HD+ display with a waterdrop notch and Corning Gorilla Glass 5 protection, giving you a large and durable screen for gaming, videos, and everyday use.\r\n\r\nIt comes with 3GB/4GB RAM and 32GB/64GB internal storage, which can be expanded up to 256GB using a microSD card.",
+    "status": false,
+    "trending": false,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 2,
+  "fields": {
+    "category": 1,
+    "name": "iPhone 15",
+    "vendor": "sivaprasath",
+    "product_image": "uploads/20260308203131iPhone_15_Blue_Pure.webp",
+    "quantity": 15,
+    "original_price": 59000.0,
+    "selling_price": 54000.0,
+    "description": "The iPhone 15 features a stunning 6.1-inch Super Retina XDR OLED display with Dynamic Island for a modern and interactive user experience.\r\nIt is powered by the A16 Bionic chip, delivering fast performance for gaming, multitasking, and everyday apps.",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 3,
+  "fields": {
+    "category": 1,
+    "name": "oneplus 5G",
+    "vendor": "thirumurugan",
+    "product_image": "uploads/20260308203317oneplus_5G.webp",
+    "quantity": 23,
+    "original_price": 20000.0,
+    "selling_price": 18999.0,
+    "description": "The OnePlus 5G smartphone delivers powerful performance with a fast processor and smooth user experience. It features a large AMOLED display with a high refresh rate for clear visuals and immersive viewing. The phone comes with a high-resolution camera system that captures detailed photos and videos. It is powered by a long-lasting battery with fast charging support for all-day usage. With 5G connectivity, the device offers ultra-fast internet speeds for gaming, streaming, and multitasking.",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 4,
+  "fields": {
+    "category": 2,
+    "name": "samsung galaxy book4",
+    "vendor": "sanjai",
+    "product_image": "uploads/20260308205901samsung_galaxy_book4.webp",
+    "quantity": 21,
+    "original_price": 78987.0,
+    "selling_price": 49750.0,
+    "description": "Samsung Galaxy Book4 is a best laptop for coding . it will have i7 13 generation processor ., with 16 GB RAM and 512 SSD storage",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 5,
+  "fields": {
+    "category": 2,
+    "name": "Lenova 100e",
+    "vendor": "kumar",
+    "product_image": "uploads/20260308210603lenova_100e.webp",
+    "quantity": 20,
+    "original_price": 16000.0,
+    "selling_price": 13999.0,
+    "description": "Lenova 100e is a best laptop for normal usage . it will have i3 13 generation processor ., with 8 GB RAM and 256 SSD storage",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 6,
+  "fields": {
+    "category": 2,
+    "name": "Hp intel i7 13 gen",
+    "vendor": "prasath",
+    "product_image": "uploads/20260308210547hp_intel_core_i7_13th_gen.webp",
+    "quantity": 34,
+    "original_price": 75705.0,
+    "selling_price": 69990.0,
+    "description": "Hp intel i7 is a best laptop for coding . it will have i7 13 generation processor ., with 16 GB RAM and 512 SSD storage",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 7,
+  "fields": {
+    "category": 2,
+    "name": "Ausus Vivobook",
+    "vendor": "murugan",
+    "product_image": "uploads/20260308210359ausus_vivobook.webp",
+    "quantity": 32,
+    "original_price": 50000.0,
+    "selling_price": 40000.0,
+    "description": "Ausus Vivobook is a best laptop for coding . it will have i7 13 generation processor ., with 16 GB RAM and 512 SSD storage",
+    "status": false,
+    "trending": false,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 8,
+  "fields": {
+    "category": 2,
+    "name": "Acer Aspire 14",
+    "vendor": "selvam",
+    "product_image": "uploads/20260308210530acer_aspire_14.webp",
+    "quantity": 23,
+    "original_price": 77999.0,
+    "selling_price": 54990.0,
+    "description": "Acer Aspire 14 is a best laptop for coding . it will have i7 13 generation processor ., with 16 GB RAM and 512 SSD storage",
+    "status": false,
+    "trending": false,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 9,
+  "fields": {
+    "category": 3,
+    "name": "aadi",
+    "vendor": "aadhi",
+    "product_image": "uploads/20260308212036aadi.webp",
+    "quantity": 13,
+    "original_price": 700.0,
+    "selling_price": 650.0,
+    "description": "aadi's best shoe ever for any sports.\r\nit is ver comfortable  .",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 10,
+  "fields": {
+    "category": 3,
+    "name": "bruton",
+    "vendor": "purusothaman",
+    "product_image": "uploads/20260308212325bruton.webp",
+    "quantity": 21,
+    "original_price": 1000.0,
+    "selling_price": 900.0,
+    "description": "Bruton gives you an elegent shoe for ever .\r\nthis is a right choice for running sport.",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 11,
+  "fields": {
+    "category": 3,
+    "name": "Footup",
+    "vendor": "kannan",
+    "product_image": "uploads/20260308212504footup.webp",
+    "quantity": 43,
+    "original_price": 500.0,
+    "selling_price": 350.0,
+    "description": "Foot up gives you a comfortable sliper for your home usages.",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 12,
+  "fields": {
+    "category": 3,
+    "name": "Killer",
+    "vendor": "sandhiya",
+    "product_image": "uploads/20260308212637killer.webp",
+    "quantity": 50,
+    "original_price": 400.0,
+    "selling_price": 300.0,
+    "description": "Killer produces the elegent sliper for you . \r\nit is very soft.",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 13,
+  "fields": {
+    "category": 3,
+    "name": "Paduki",
+    "vendor": "dharani",
+    "product_image": "uploads/20260308212820paduki.webp",
+    "quantity": 43,
+    "original_price": 600.0,
+    "selling_price": 500.0,
+    "description": "Paduki gives an elegent sliper for you . it is very soft and comfortable for anyone.",
+    "status": false,
+    "trending": false,
+    "created_at": "2026-03-08"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 14,
+  "fields": {
+    "category": 4,
+    "name": "Roadster",
+    "vendor": "Ramu",
+    "product_image": "uploads/20260401095000fasion-men-1.webp",
+    "quantity": 21,
+    "original_price": 999.0,
+    "selling_price": 361.0,
+    "description": "Roadster Size   :       XL\r\nPack of             :      11\r\nStyle Code        :      32023749\r\nFit                     :      Relaxed Fit\r\nFabric                :      Cotton Blend\r\nSleeve               :     Full Sleeve\r\nPattern              :     Solid\r\nReversible         :      No\r\nColor                 :     Beige",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 15,
+  "fields": {
+    "category": 4,
+    "name": "Jean Shirt",
+    "vendor": "Janu",
+    "product_image": "uploads/2026040609265520260401095546fasion.jpg",
+    "quantity": 32,
+    "original_price": 1999.0,
+    "selling_price": 700.0,
+    "description": "Original Jean , manufactured by otto.\r\nbest choice for all men's",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 16,
+  "fields": {
+    "category": 4,
+    "name": "Men T-shirt",
+    "vendor": "Murugan",
+    "product_image": "uploads/20260401095802fasion-men-2.webp",
+    "quantity": 12,
+    "original_price": 1499.0,
+    "selling_price": 250.0,
+    "description": "Men stripped shirt \r\n1 year warenty\r\ncotton",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 17,
+  "fields": {
+    "category": 4,
+    "name": "Men Cheked shirt",
+    "vendor": "cheenu",
+    "product_image": "uploads/20260401100000fasion-men-3.webp",
+    "quantity": 32,
+    "original_price": 1299.0,
+    "selling_price": 599.0,
+    "description": "Men's chekked shirt . \r\ncotton shirt\r\nelastic.",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 18,
+  "fields": {
+    "category": 4,
+    "name": "Jackbella",
+    "vendor": "jack",
+    "product_image": "uploads/20260401100349fasion-men-4.webp",
+    "quantity": 32,
+    "original_price": 1499.0,
+    "selling_price": 299.0,
+    "description": "Jackbella \r\nMen's popcon shirt\r\nelaastic",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 19,
+  "fields": {
+    "category": 4,
+    "name": "Georgette kurta",
+    "vendor": "kumar",
+    "product_image": "uploads/20260401100651fasion-women-1.webp",
+    "quantity": 43,
+    "original_price": 1699.0,
+    "selling_price": 403.0,
+    "description": "Georgette kurta\r\nWomen's best choice\r\nwith duppata set",
+    "status": false,
+    "trending": false,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 20,
+  "fields": {
+    "category": 4,
+    "name": "Viscose Rayon",
+    "vendor": "Ram",
+    "product_image": "uploads/20260401100824fasion-women-2.webp",
+    "quantity": 54,
+    "original_price": 1999.0,
+    "selling_price": 1670.0,
+    "description": "Love Of Fashion Women Viscose Rayon, Georgette Kurta Pant Dupatta Set",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 21,
+  "fields": {
+    "category": 4,
+    "name": "Black georgette",
+    "vendor": "Banu",
+    "product_image": "uploads/20260401101028fasion-women-3.webp",
+    "quantity": 31,
+    "original_price": 999.0,
+    "selling_price": 453.0,
+    "description": "W E A R I A L Women Georgette Kurta Pant Dupatta Set",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 22,
+  "fields": {
+    "category": 5,
+    "name": "PenHolder",
+    "vendor": "prabu",
+    "product_image": "uploads/20260401104803pen_holder.webp",
+    "quantity": 43,
+    "original_price": 899.0,
+    "selling_price": 499.0,
+    "description": "A Pen holder suitable for all houses",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 23,
+  "fields": {
+    "category": 5,
+    "name": "Bed sheets",
+    "vendor": "babu",
+    "product_image": "uploads/20260401104905bed_sheets.webp",
+    "quantity": 22,
+    "original_price": 999.0,
+    "selling_price": 500.0,
+    "description": "Bed Sheets for all size beds",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 24,
+  "fields": {
+    "category": 5,
+    "name": "Curtain",
+    "vendor": "guptha",
+    "product_image": "uploads/20260401105035curtains.webp",
+    "quantity": 12,
+    "original_price": 700.0,
+    "selling_price": 399.0,
+    "description": "Sky blue curtain . Sun light protection",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 25,
+  "fields": {
+    "category": 5,
+    "name": "Buddha",
+    "vendor": "bala",
+    "product_image": "uploads/20260401105315buddha.webp",
+    "quantity": 33,
+    "original_price": 899.0,
+    "selling_price": 599.0,
+    "description": "Buttiful Buddha statue. gives homfly fealing for all houeses.",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.product",
+  "pk": 26,
+  "fields": {
+    "category": 5,
+    "name": "Pillow",
+    "vendor": "prem",
+    "product_image": "uploads/20260401105454pillows.webp",
+    "quantity": 54,
+    "original_price": 599.0,
+    "selling_price": 399.0,
+    "description": "Blue pillow . Five peaces for a large family.",
+    "status": false,
+    "trending": true,
+    "created_at": "2026-04-01"
+  }
+},
+{
+  "model": "shop.cart",
+  "pk": 2,
+  "fields": {
+    "user": 1,
+    "product": 3,
+    "product_qty": 1,
+    "created_at": "2026-04-24T01:17:54.948Z"
+  }
+},
+{
+  "model": "shop.cart",
+  "pk": 4,
+  "fields": {
+    "user": 1,
+    "product": 11,
+    "product_qty": 1,
+    "created_at": "2026-04-24T17:25:02.280Z"
+  }
+},
+{
+  "model": "shop.cart",
+  "pk": 5,
+  "fields": {
+    "user": 1,
+    "product": 2,
+    "product_qty": 1,
+    "created_at": "2026-04-24T17:52:40.912Z"
+  }
+},
+{
+  "model": "shop.cart",
+  "pk": 6,
+  "fields": {
+    "user": 1,
+    "product": 20,
+    "product_qty": 1,
+    "created_at": "2026-04-24T17:53:11.130Z"
+  }
+},
+{
+  "model": "shop.cart",
+  "pk": 7,
+  "fields": {
+    "user": 13,
+    "product": 2,
+    "product_qty": 1,
+    "created_at": "2026-04-24T18:38:59.719Z"
+  }
+},
+{
+  "model": "shop.cart",
+  "pk": 10,
+  "fields": {
+    "user": 1,
+    "product": 6,
+    "product_qty": 1,
+    "created_at": "2026-04-30T18:55:01.300Z"
+  }
+},
+{
+  "model": "shop.cart",
+  "pk": 12,
+  "fields": {
+    "user": 1,
+    "product": 10,
+    "product_qty": 3,
+    "created_at": "2026-04-30T18:56:46.150Z"
+  }
+},
+{
+  "model": "shop.cart",
+  "pk": 13,
+  "fields": {
+    "user": 1,
+    "product": 9,
+    "product_qty": 1,
+    "created_at": "2026-04-30T19:28:57.892Z"
+  }
+},
+{
+  "model": "shop.favourite",
+  "pk": 2,
+  "fields": {
+    "user": 1,
+    "product": 20,
+    "created_at": "2026-04-25"
+  }
+},
+{
+  "model": "shop.favourite",
+  "pk": 3,
+  "fields": {
+    "user": 1,
+    "product": 3,
+    "created_at": "2026-04-25"
+  }
+},
+{
+  "model": "shop.favourite",
+  "pk": 5,
+  "fields": {
+    "user": 13,
+    "product": 6,
+    "created_at": "2026-04-25"
+  }
+},
+{
+  "model": "shop.favourite",
+  "pk": 8,
+  "fields": {
+    "user": 1,
+    "product": 5,
+    "created_at": "2026-05-01"
+  }
+},
+{
+  "model": "shop.favourite",
+  "pk": 10,
+  "fields": {
+    "user": 1,
+    "product": 8,
+    "created_at": "2026-05-01"
+  }
+},
+{
+  "model": "shop.favourite",
+  "pk": 11,
+  "fields": {
+    "user": 1,
+    "product": 10,
+    "created_at": "2026-05-01"
+  }
+},
+{
+  "model": "shop.favourite",
+  "pk": 12,
+  "fields": {
+    "user": 1,
+    "product": 9,
+    "created_at": "2026-05-01"
+  }
+}
+]

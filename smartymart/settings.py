@@ -78,11 +78,11 @@ WSGI_APPLICATION = 'smartymart.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME':'smartymart' ,
-        'HOST' : 'localhost' ,
-        'USER' : 'root' ,
-        'PASSWORD' : 'sql30',
-
+        'NAME': 'brnxwmthcz67xszzislh',
+        'HOST': 'brnxwmthcz67xszzislh-mysql.services.clever-cloud.com',
+        'USER': 'u6g6zmwfrz9xn54y',
+        'PASSWORD': 'HzyH0RSfzNvQ7M3GtG5d',
+        'PORT': '3306',
     }
 }
 
