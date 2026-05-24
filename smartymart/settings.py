@@ -79,10 +79,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME':'smartymart' ,
-        'HOST' : 'your-mysql-host' ,
-        'USER' : 'username' ,
-        'PASSWORD' : 'password',
-        'PORT' : '3306',
+        'HOST' : 'localhost' ,
+        'USER' : 'root' ,
+        'PASSWORD' : 'sql30',
 
     }
 }

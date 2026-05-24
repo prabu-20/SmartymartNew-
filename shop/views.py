@@ -10,10 +10,9 @@ import re
 from django.contrib.auth import authenticate,login,logout
 
 def HomePage(request):
-    #products=Product.objects.filter(trending=1)
-    #return render(request , 'index.html',{"products":products})
-    render(request,"Working")
-
+    products=Product.objects.filter(trending=1)
+    return render(request , 'index.html',{"products":products})
+    
 def logout_page(request):
     if request.user.is_authenticated:
         logout(request)
